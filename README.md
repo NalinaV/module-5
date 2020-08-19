@@ -1,5 +1,5 @@
 # module-5
-Link to assignment 
+Link to assignment https://nalinav.github.io/module-5/.
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
